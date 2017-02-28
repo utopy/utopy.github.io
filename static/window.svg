@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="363px" height="297px" viewBox="0 0 363 297" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-313.000000, -216.000000)">
+            <g id="Group" transform="translate(315.000000, 219.000000)">
+                <g id="Page-1" filter="url(#filter-1)" transform="translate(36.000000, 30.000000)">
+                    <path d="M302.147,240.8652 L19.006,240.8652 C8.509,240.8652 0,232.3552 0,221.8592 L0,19.0062 C0,8.5102 8.509,0.0002 19.006,0.0002 L302.147,0.0002 C312.643,0.0002 321.153,8.5102 321.153,19.0062 L321.153,221.8592 C321.153,232.3552 312.643,240.8652 302.147,240.8652" id="Fill-1" fill="#FEFEFE"></path>
+                    <path d="M302.147,240.8652 L19.006,240.8652 C8.509,240.8652 0,232.3552 0,221.8592 L0,19.0062 C0,8.5102 8.509,0.0002 19.006,0.0002 L302.147,0.0002 C312.643,0.0002 321.153,8.5102 321.153,19.0062 L321.153,221.8592 C321.153,232.3552 312.643,240.8652 302.147,240.8652 Z" id="Stroke-3" stroke="#221F20" stroke-width="6" stroke-linejoin="round"></path>
+                    <path d="M26.8125,18.5766 C26.8125,21.3466 24.5675,23.5906 21.7985,23.5906 C19.0295,23.5906 16.7845,21.3466 16.7845,18.5766 C16.7845,15.8076 19.0295,13.5626 21.7985,13.5626 C24.5675,13.5626 26.8125,15.8076 26.8125,18.5766" id="Fill-5" fill="#FEFEFE"></path>
+                    <path d="M26.8125,18.5766 C26.8125,21.3466 24.5675,23.5906 21.7985,23.5906 C19.0295,23.5906 16.7845,21.3466 16.7845,18.5766 C16.7845,15.8076 19.0295,13.5626 21.7985,13.5626 C24.5675,13.5626 26.8125,15.8076 26.8125,18.5766 Z" id="Stroke-7" stroke="#221F20" stroke-width="4" stroke-linejoin="round"></path>
+                    <path d="M46.3784,18.5766 C46.3784,21.3466 44.1334,23.5906 41.3644,23.5906 C38.5944,23.5906 36.3504,21.3466 36.3504,18.5766 C36.3504,15.8076 38.5944,13.5626 41.3644,13.5626 C44.1334,13.5626 46.3784,15.8076 46.3784,18.5766" id="Fill-9" fill="#FEFEFE"></path>
+                    <path d="M46.3784,18.5766 C46.3784,21.3466 44.1334,23.5906 41.3644,23.5906 C38.5944,23.5906 36.3504,21.3466 36.3504,18.5766 C36.3504,15.8076 38.5944,13.5626 41.3644,13.5626 C44.1334,13.5626 46.3784,15.8076 46.3784,18.5766 Z" id="Stroke-11" stroke="#221F20" stroke-width="4" stroke-linejoin="round"></path>
+                    <path d="M65.9443,18.5766 C65.9443,21.3466 63.6993,23.5906 60.9303,23.5906 C58.1603,23.5906 55.9163,21.3466 55.9163,18.5766 C55.9163,15.8076 58.1603,13.5626 60.9303,13.5626 C63.6993,13.5626 65.9443,15.8076 65.9443,18.5766" id="Fill-13" fill="#FEFEFE"></path>
+                    <path d="M65.9443,18.5766 C65.9443,21.3466 63.6993,23.5906 60.9303,23.5906 C58.1603,23.5906 55.9163,21.3466 55.9163,18.5766 C55.9163,15.8076 58.1603,13.5626 60.9303,13.5626 C63.6993,13.5626 65.9443,15.8076 65.9443,18.5766 Z" id="Stroke-15" stroke="#221F20" stroke-width="4" stroke-linejoin="round"></path>
+                    <path d="M61.2437,69.8149 L21.4847,69.8149 C18.8887,69.8149 16.7847,67.7109 16.7847,65.1139 L16.7847,60.4599 C16.7847,57.8629 18.8887,55.7579 21.4847,55.7579 L61.2437,55.7579 C63.8397,55.7579 65.9447,57.8629 65.9447,60.4599 L65.9447,65.1139 C65.9447,67.7109 63.8397,69.8149 61.2437,69.8149 Z" id="Stroke-17" stroke="#221F20" stroke-width="3"></path>
+                    <path d="M26.8125,79.3505 L55.9165,79.3505" id="Stroke-19" stroke="#221F20" stroke-width="3"></path>
+                    <path d="M26.8125,90.31 L55.9165,90.31" id="Stroke-21" stroke="#221F20" stroke-width="3"></path>
+                    <path d="M26.8125,162.1562 L55.9165,162.1562" id="Stroke-23" stroke="#221F20" stroke-width="3"></path>
+                    <path d="M26.8125,173.1161 L55.9165,173.1161" id="Stroke-25" stroke="#221F20" stroke-width="3"></path>
+                    <path d="M26.8125,184.0751 L55.9165,184.0751" id="Stroke-27" stroke="#221F20" stroke-width="3"></path>
+                    <path d="M26.8125,195.0351 L55.9165,195.0351" id="Stroke-29" stroke="#221F20" stroke-width="3"></path>
+                    <path d="M27.3589,63.391 L38.9329,63.391" id="Stroke-31" stroke="#221F20" stroke-width="3"></path>
+                    <path d="M41.1377,63.391 L56.4617,63.391" id="Stroke-33" stroke="#221F20" stroke-width="3"></path>
+                    <polyline id="Stroke-35" stroke="#221F20" stroke-width="5" points="291.6177 240.8652 83.2387 240.8652 83.2387 0.0002 296.7157 0.0002"></polyline>
+                </g>
+                <g id="pop" stroke="#51F5A0" stroke-width="5" stroke-linecap="round">
+                    <path d="M19.9287529,28 L0.810396875,27.6251373" id="Path-4"></path>
+                    <path d="M38.3695749,9.559178 L19.2512189,9.18431525" id="Path-4" transform="translate(28.810397, 9.684315) rotate(-270.000000) translate(-28.810397, -9.684315) "></path>
+                    <path d="M22.6186116,21.7563811 L9.36496039,7.97259399" id="Path-4-Copy"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
